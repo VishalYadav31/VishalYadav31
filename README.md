@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VishalYadav31
 - 👀 I’m interested in JAVA FULL STACK 
-- 🌱 I’m currently learning JAVA FULL STACK
+- 🌱 I’m currently learning JAVA FULL STACK(HTML,CSS,BOTSTRAP,JAVASCRIPT,REACTJS,MYSQL,MONGODB)
 - 💞️ I’m looking to collaborate on Web Development..
 - 📫 How to reach me vishalvy0694@gmail.com.
 
